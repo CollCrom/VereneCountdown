@@ -1,0 +1,35 @@
+body {
+    background-color: #7F8182;
+    font-family: 'Roboto Slab', serif;
+}
+
+.flex {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-content: center;
+}
+
+.Countdown {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    font-size: 9vh;
+    width: 100%;
+}
+
+.Countdown-col {
+    text-align: center;
+    flex-basis: auto;
+    margin: 2vh;
+    color: #A4E3D1;
+}
+
+
+header {
+    text-align: center;
+    font-weight: 900;
+    width: 100%;
+    font-size: 50px;
+    color: #DBDFE0;
+}
